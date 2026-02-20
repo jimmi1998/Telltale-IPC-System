@@ -1,4 +1,6 @@
-# Telltale IPC Application
+# Telltale-IPC-System
+
+Professional Android automotive dashboard simulation showcasing an end-to-end data pipeline. Bridges C++ native hardware simulation with CRC8 checks to a Kotlin HMI via secure AIDL middleware. Features JNI integration, multi-threading, and fault-tolerant state caching.
 
 This project implements an Android IPC-based Telltale indicator system, simulating a real-world automotive cluster environment where hardware signals are processed in the native layer and displayed on an Android UI.
 
